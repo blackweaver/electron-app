@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "App para empezar a aprender el lenguaje de Electron",
+  "license": "ISC",
+  "author": "Ricardo Castillo",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "devDependencies": {
+    "electron": "^44.5.1"
+  }
+}
